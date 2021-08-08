@@ -39,7 +39,7 @@ export default {
   h3 {
     text-align: center;
     color: #313131;
-    padding: 16px;
+    padding: 17px;
     transition: 0.4s;
 
     &:hover {
